@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- I started out coding C++, but also did some HTML on the side
+
+- Speaks:
+ English
+- Writes: 
+  C++,
+ VBA,
+ VB.Net, and
+  C#
+
 <!--
 **ChessFox/ChessFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
