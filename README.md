@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I started out coding C++, but also did some HTML on the side
+- I started out coding C++
 
 - Speaks:
  English
