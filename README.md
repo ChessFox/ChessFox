@@ -8,7 +8,8 @@
   C++,
  VBA,
  VB.Net, and
-  C#
+  C# (and of course some scripting)
+
 
 <!--
 **ChessFox/ChessFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
