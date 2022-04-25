@@ -7,9 +7,12 @@
 - Writes: 
   C++,
  VBA,
- VB.Net, and
+ VB.Net,
+ SQL, and
   C# (and of course some scripting)
 
+- Learning:
+Racket (define awesome-languages (list racket lisp scheme))
 
 <!--
 **ChessFox/ChessFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
